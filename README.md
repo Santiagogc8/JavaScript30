@@ -11,11 +11,11 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 
 | Día | Proyecto                  | Demo / Live                                                        | Descripción breve                    |
 |-----|---------------------------|--------------------------------------------------------------------|--------------------------------------|
-| 1   | 🥁 Drum Kit               | [Ver](https://santiagogc8.github.io/JavaScript30/01-drum-kit/)    | Simulador de batería con teclas      |
-| 2   | 🕒 JS + CSS Clock         | [Ver](https://santiagogc8.github.io/JavaScript30/02-clock/)        | Reloj analógico dinámico             |
-| 3   | 🎨 CSS Variables          | [Ver](https://santiagogc8.github.io/JavaScript30/03-css-variables/)| Manipulación de variables CSS        |
-| 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/04-array-cardio-1/)| Ejercicios prácticos con arrays      |
-| 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/05-flex-panel-gallery/)| Galería interactiva con flexbox      |
+| 1   | 🥁 Drum Kit               | [Ver](https://santiagogc8.github.io/JavaScript30/Day%201%20-%20JavaScript%20Drum%20Kit/)    | Simulador de batería con teclas      |
+| 2   | 🕒 JS + CSS Clock         | [Ver](https://santiagogc8.github.io/JavaScript30/Day%202%20-%20JS%20Clock/)        | Reloj analógico dinámico             |
+| 3   | 🎨 CSS Variables          | [Ver](https://santiagogc8.github.io/JavaScript30/Day%203%20-%20Playing%20with%20CSS%20variables/)| Manipulación de variables CSS        |
+| 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/Day%204%20-%20Array%20cardio/)| Ejercicios prácticos con arrays      |
+| 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/Day%205%20-%20Flex%20Panels%20Image%20Gallery/)| Galería interactiva con flexbox      |
 | 6   |                           |                                                                    |                                      |
 | 7   |                           |                                                                    |                                      |
 | 8   |                           |                                                                    |                                      |
