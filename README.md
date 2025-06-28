@@ -1,0 +1,64 @@
+# JavaScript30 🚀
+
+30 proyectos en 30 días con JavaScript puro  
+Curso original de [Wes Bos](https://javascript30.com/)
+
+## Descripción
+
+Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascript30.com/) de Wes Bos. El objetivo es crear 30 proyectos usando únicamente JavaScript, HTML y CSS, sin frameworks ni librerías externas. Cada día, un proyecto diferente para mejorar mis habilidades y entender mejor cómo funciona JavaScript en el navegador.
+
+## Proyectos
+
+| Día | Proyecto                  | Demo / Live                                                        | Descripción breve                    |
+|-----|---------------------------|--------------------------------------------------------------------|--------------------------------------|
+| 1   | 🥁 Drum Kit               | [Ver](https://santiagogc8.github.io/JavaScript30/01-drum-kit/)    | Simulador de batería con teclas      |
+| 2   | 🕒 JS + CSS Clock         | [Ver](https://santiagogc8.github.io/JavaScript30/02-clock/)        | Reloj analógico dinámico             |
+| 3   | 🎨 CSS Variables          | [Ver](https://santiagogc8.github.io/JavaScript30/03-css-variables/)| Manipulación de variables CSS        |
+| 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/04-array-cardio-1/)| Ejercicios prácticos con arrays      |
+| 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/05-flex-panel-gallery/)| Galería interactiva con flexbox      |
+| 6   |                           |                                                                    |                                      |
+| 7   |                           |                                                                    |                                      |
+| 8   |                           |                                                                    |                                      |
+| 9   |                           |                                                                    |                                      |
+| 10  |                           |                                                                    |                                      |
+| 11  |                           |                                                                    |                                      |
+| 12  |                           |                                                                    |                                      |
+| 13  |                           |                                                                    |                                      |
+| 14  |                           |                                                                    |                                      |
+| 15  |                           |                                                                    |                                      |
+| 16  |                           |                                                                    |                                      |
+| 17  |                           |                                                                    |                                      |
+| 18  |                           |                                                                    |                                      |
+| 19  |                           |                                                                    |                                      |
+| 20  |                           |                                                                    |                                      |
+| 21  |                           |                                                                    |                                      |
+| 22  |                           |                                                                    |                                      |
+| 23  |                           |                                                                    |                                      |
+| 24  |                           |                                                                    |                                      |
+| 25  |                           |                                                                    |                                      |
+| 26  |                           |                                                                    |                                      |
+| 27  |                           |                                                                    |                                      |
+| 28  |                           |                                                                    |                                      |
+| 29  |                           |                                                                    |                                      |
+| 30  |                           |                                                                    |                                      |
+
+> **Nota:** Los enlaces a los proyectos estarán activos a medida que avance en el reto y los suba a GitHub Pages.
+
+## ¿Qué aprendí?
+
+- Manipulación del DOM y eventos
+- Uso de ES6+ (arrow functions, destructuring, etc.)
+- CSS avanzado (variables, flexbox, animaciones)
+- LocalStorage y APIs del navegador
+- Buenas prácticas de desarrollo web
+
+## Cómo ejecutar los proyectos
+
+1. Clona el repositorio:
+git clone https://github.com/Santiagogc8/JavaScript30.git
+
+2. Abre la carpeta de cada proyecto y abre el archivo `index.html` en tu navegador.
+
+## Créditos
+
+- Curso original: [Wes Bos - JavaScript30](https://javascript30.com/)
