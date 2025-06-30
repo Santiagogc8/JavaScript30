@@ -1,4 +1,4 @@
-const panels = document.querySelectorAll('.panel'); // Obtenemos todos los elementos de clase panel
+const panels = document.querySelectorAll('.panel'); // Obtenemos todos los elementos de clase panel 
 
 function open(){ // Creamos una funcion que 
     this.classList.toggle('open'); // A los elementos obtenidos por el event listener, les agregara una clase open, y si ya la tiene, se la eliminara
