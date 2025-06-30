@@ -1,4 +1,4 @@
-const playAudio = (e) => { // Se crea la funcion para reproducir el audio 
+const playAudio = (e) => { // Se crea la funcion para reproducir el audio
 
     let keyCode; // Se crea una variable para guardar los codigos de las teclas
 
