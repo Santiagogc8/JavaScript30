@@ -28,5 +28,4 @@ function setDate(){ // Se crea una variable para setear el date
 
 }
 
-
 setInterval(setDate, 1000);
