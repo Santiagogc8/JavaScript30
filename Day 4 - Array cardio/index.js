@@ -57,7 +57,7 @@ const inventors = [
     // Utilizamos reduce que permite validar el total y el inventor. Retornamos el total + la resta del año de fallecimiento y el año de nacimiento
     const totalYears = inventors.reduce((total, i) => {
         return total + (i.passed - i.year)
-    }, 0); // Por ultimo agregamos un 0 como valor inicial de total
+    }, 0); // Por ultimo agregamos un 0 como valor inicial de total 
 
     console.log(totalYears)
 
