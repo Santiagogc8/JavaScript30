@@ -1,4 +1,4 @@
-const inputs = document.querySelectorAll('.controls input'); // Obtenemos todos los input de la clase controls
+const inputs = document.querySelectorAll('.controls input'); // Obtenemos todos los input de la clase controls 
 
 function update () { // Creamos la funcion para actualizar
     const sizing = this.dataset.sizing || ''; // Creamos una variable que obtiene el atributo data-sizing y como fallback le ponemos nada
