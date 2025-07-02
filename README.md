@@ -17,7 +17,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/Day%204%20-%20Array%20cardio/)| Ejercicios prácticos con arrays      |
 | 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/Day%205%20-%20Flex%20Panels%20Image%20Gallery/)| Galería interactiva con flexbox      |
 | 6   | 🗺️ Ajax Type Ahead        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%206%20-%20Ajax%20Type%20Ahead/)| Buscador de poblacion segun ciudad o estado |                                      
-| 7   |                           |                                                                    |                                      |
+| 7   | 💡 Array Cardio Day 2    | [Ver](https://santiagogc8.github.io/JavaScript30/Day%207%20-%20Array%20cardio%202/)| Ejercicios prácticos con arrays 2 |                                      
 | 8   |                           |                                                                    |                                      |
 | 9   |                           |                                                                    |                                      |
 | 10  |                           |                                                                    |                                      |
