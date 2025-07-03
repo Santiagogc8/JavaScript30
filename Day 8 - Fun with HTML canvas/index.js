@@ -24,7 +24,7 @@ function draw(e){
     ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`; // Y le ponemos el color de hue con una saturacion de 100% y un brillo de 50
     [lastX, lastY] = [e.offsetX, e.offsetY]; // Destructuramos en un array las posiciones de donde inicia y termina un trazo
 
-    hue += 0.2; // E incrementa el valor para que vaya cambiando segun se va moviendo 
+    hue += 0.5; // E incrementa el valor para que vaya cambiando segun se va moviendo 
 
     if (hue >= 360){
         hue = 0;
