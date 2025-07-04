@@ -7,6 +7,8 @@
 </head>
 <body>
 
+    <h3>Hola, puedes checkear la consola para ver lo que se logro en este challenge o visitar mi <a href="https://github.com/Santiagogc8">GitHub</a> 🧑🏻‍💻</h3>
+
     <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
     <script>
@@ -91,7 +93,11 @@
             .then( data => {
                 console.timeEnd('fetching data'); // Terminamos el timer con el mismo nombre de inicio
                 console.log(data); // Y por ultimo lo mostramos en consola
-            })
+            });
+        
+        // Tables
+        // Tambien se pueden hacer tablas para mostrar arrays de forma mas organizada
+        console.table(dogs); 
 
     </script>
 </body>
