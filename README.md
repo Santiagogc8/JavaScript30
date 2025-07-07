@@ -21,7 +21,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 8   | 🎨 Fun with HTML canvas  | [Ver](https://santiagogc8.github.io/JavaScript30/Day%208%20-%20Fun%20with%20HTML%20canvas/)| Un lienzo para dibujar con diferentes colores|
 | 9   | 🤖 Console tricks        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%209%20-%20Console%20tricks/)| Algunos trucos con la consola |
 | 10  | ✅ Hold shift to Check Multiple Checkboxes | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2010%20-%20Hold%20shift%20to%20Check%20Multiple%20Checkboxes/)| Utiliza el shift para marcar varias checkboxes rapidamente|
-| 11  |                           |                                                                    |                                      |
+| 11  | 📺 Custom HTML5 Video Player | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2011%20-%20Custom%20HTML5%20Video%20Player/) | Un visualizador de video personalizado |
 | 12  |                           |                                                                    |                                      |
 | 13  |                           |                                                                    |                                      |
 | 14  |                           |                                                                    |                                      |
