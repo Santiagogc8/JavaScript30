@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Console Tricks!</title>
+    <link rel="icon" href="https://fav.farm/🔥" />
+</head>
+<body>
+
+    <h3>Hola, puedes checkear la consola para ver lo que se logro en este challenge o visitar mi <a href="https://github.com/Santiagogc8">GitHub</a> 🧑🏻‍💻</h3>
+
+    <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+    <script>
+        const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+        const p = document.querySelector('p');
+
+        function makeGreen() {
+            p.style.color = '#BADA55';
+            p.style.fontSize = '50px';
+        }
+
+        // Regular
+        // El regular es el tipico console.log que muestra un texto en consola
+        console.log("Este es un texto en consola")
+
+        // Interpolated
+        // Tambien se puede interpolar con backticks 
+        let interpolate = "Interpolate"; 
+        console.log(`Este es un texto en consola con la variable ${interpolate} en medio`);
+
+        // Styled
+        // Tambien se puede agregar estilos en consola
+        console.log('%c Esto es un texto estilizado', 'background-color: black; color: green')
+
+        // warning!
+        // Tambien podemos hacer advertencias 
+        console.warn("Cuidado, esto es una advertencia");
+
+        // Error :|
+        // O tambien podemos hacer errores
+        console.error("Estas cometiendo un error");
+
+        // Info
+        //  O tambien podemos dar informacion al usuario
+        console.info("Recuerda que no solucionas problemas sino que creas soluciones");
+
+        // Testing
+        // Y se puede probar cosas y en caso de que sea falso, no mostrara nada
+        console.assert(1 === 2, "La prueba no es cierta")
+
+        // clearing
+        // O se puede limpiar la consola con console.clear()
+
+        // Viewing DOM Elements
+        // O tambien podemos ver los elementos del dom que tenemos seleccionados 
+        console.log(p);
+        // O tambien podemos ver una clase de lista con el elemento del dom
+        console.dir(p);
+
+        // Grouping together
+        // Podemos agrupar cosas en la consola para que todo se vea mas organizado. Una forma es hacerlo con un forEach
+        dogs.forEach(dog => {
+            console.group(`${dog.name}`); // Inciamos un grupo y le ponemos el nombre del perro. Tambien se puede usar groupCollapsed() para iniciar la lista cerrada
+            console.log(`Este es ${dog.name}`);
+            console.log(`${dog.name} tiene una edad de ${dog.age}`);
+            console.log(`${dog.name} tiene una edad de ${dog.age * 7} en años perrunos`);
+            console.groupEnd(`${dog.name}`); // Cerramos el grupo con el nombre correspondiente a la lista
+        });
+
+        // counting
+        // Tambien podemos crear un conteo
+        console.count('Hola');
+        console.count('Adios');
+        console.count('Hola');
+        console.count('Adios');
+        console.count('Hola');
+        console.count('Adios');
+        console.count('Hola');
+        console.count('Adios');
+        console.count('Hola');
+        console.count('Adios');
+        console.count('Hola');
+        console.count('Adios');
+
+        // Dando asi un total de 6 al terminar la cuenta para cada uno
+
+        // timing
+        // Y tambien podemos usar un timing para iniciar un timer y contabilizar el tiempo que algo tarda. Como con una api
+        console.time('fetching data'); // Iniciamos el timer con un tiempo
+        fetch('https://api.github.com/users/Santiagogc8')
+            .then(data => data.json())
+            .then( data => {
+                console.timeEnd('fetching data'); // Terminamos el timer con el mismo nombre de inicio
+                console.log(data); // Y por ultimo lo mostramos en consola
+            });
+        
+        // Tables
+        // Tambien se pueden hacer tablas para mostrar arrays de forma mas organizada
+        console.table(dogs); 
+
+    </script>
+</body>
+</html>
