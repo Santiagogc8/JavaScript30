@@ -20,7 +20,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 7   | 💡 Array Cardio Day 2    | [Ver](https://santiagogc8.github.io/JavaScript30/Day%207%20-%20Array%20cardio%202/)| Ejercicios prácticos con arrays 2 |                                      
 | 8   | 🎨 Fun with HTML canvas  | [Ver](https://santiagogc8.github.io/JavaScript30/Day%208%20-%20Fun%20with%20HTML%20canvas/)| Un lienzo para dibujar con diferentes colores|
 | 9   | 🤖 Console tricks        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%209%20-%20Console%20tricks/)| Algunos trucos con la consola |
-| 10  |                           |                                                                    |                                      |
+| 10  | ✅ Hold shift to Check Multiple Checkboxes | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2010%20-%20Hold%20shift%20to%20Check%20Multiple%20Checkboxes/)| Utiliza el shift para marcar varias checkboxes rapidamente|
 | 11  |                           |                                                                    |                                      |
 | 12  |                           |                                                                    |                                      |
 | 13  |                           |                                                                    |                                      |
