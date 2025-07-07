@@ -11,15 +11,15 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 
 | Día | Proyecto                  | Demo / Live                                                        | Descripción breve                    |
 |-----|---------------------------|--------------------------------------------------------------------|--------------------------------------|
-| 1   | 🥁 Drum Kit               | [Ver](https://santiagogc8.github.io/JavaScript30/Day%201%20-%20JavaScript%20Drum%20Kit/)    | Simulador de batería con teclas      |
-| 2   | 🕒 JS + CSS Clock         | [Ver](https://santiagogc8.github.io/JavaScript30/Day%202%20-%20JS%20Clock/)        | Reloj analógico dinámico             |
-| 3   | 🎨 CSS Variables          | [Ver](https://santiagogc8.github.io/JavaScript30/Day%203%20-%20Playing%20with%20CSS%20variables%20and%20JS/)| Manipulación de variables CSS        |
-| 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/Day%204%20-%20Array%20cardio/)| Ejercicios prácticos con arrays      |
-| 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/Day%205%20-%20Flex%20Panels%20Image%20Gallery/)| Galería interactiva con flexbox      |
-| 6   | 🗺️ Ajax Type Ahead        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%206%20-%20Ajax%20Type%20Ahead/)| Buscador de poblacion segun ciudad o estado |                                      
-| 7   | 💡 Array Cardio Day 2    | [Ver](https://santiagogc8.github.io/JavaScript30/Day%207%20-%20Array%20cardio%202/)| Ejercicios prácticos con arrays 2 |                                      
-| 8   | 🎨 Fun with HTML canvas  | [Ver](https://santiagogc8.github.io/JavaScript30/Day%208%20-%20Fun%20with%20HTML%20canvas/)| Un lienzo para dibujar con diferentes colores|
-| 9   | 🤖 Console tricks        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%209%20-%20Console%20tricks/)| Algunos trucos con la consola |
+| 1   | 🥁 Drum Kit               | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2001%20-%20JavaScript%20Drum%20Kit/)    | Simulador de batería con teclas      |
+| 2   | 🕒 JS + CSS Clock         | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2002%20-%20JS%20Clock/)        | Reloj analógico dinámico             |
+| 3   | 🎨 CSS Variables          | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2003%20-%20Playing%20with%20CSS%20variables%20and%20JS/)| Manipulación de variables CSS        |
+| 4   | 💡 Array Cardio Day 1     | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2004%20-%20Array%20cardio/)| Ejercicios prácticos con arrays      |
+| 5   | 🖼 Flex Panel Gallery      | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2005%20-%20Flex%20Panels%20Image%20Gallery/)| Galería interactiva con flexbox      |
+| 6   | 🗺️ Ajax Type Ahead        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2006%20-%20Ajax%20Type%20Ahead/)| Buscador de poblacion segun ciudad o estado |                                      
+| 7   | 💡 Array Cardio Day 2    | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2007%20-%20Array%20cardio%202/)| Ejercicios prácticos con arrays 2 |                                      
+| 8   | 🎨 Fun with HTML canvas  | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2008%20-%20Fun%20with%20HTML%20canvas/)| Un lienzo para dibujar con diferentes colores|
+| 9   | 🤖 Console tricks        | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2009%20-%20Console%20tricks/)| Algunos trucos con la consola |
 | 10  | ✅ Hold shift to Check Multiple Checkboxes | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2010%20-%20Hold%20shift%20to%20Check%20Multiple%20Checkboxes/)| Utiliza el shift para marcar varias checkboxes rapidamente|
 | 11  | 📺 Custom HTML5 Video Player | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2011%20-%20Custom%20HTML5%20Video%20Player/) | Un visualizador de video personalizado |
 | 12  |                           |                                                                    |                                      |
