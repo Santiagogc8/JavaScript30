@@ -23,7 +23,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 10  | ✅ Hold shift to Check Multiple Checkboxes | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2010%20-%20Hold%20shift%20to%20Check%20Multiple%20Checkboxes/)| Utiliza el shift para marcar varias checkboxes rapidamente|
 | 11  | 📺 Custom HTML5 Video Player | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2011%20-%20Custom%20HTML5%20Video%20Player/) | Un visualizador de video personalizado |
 | 12  | 🕹️ Key Sequence Detection (KONAMI CODE) | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2012%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/)| Una web que cambia cuando haces el codigo Konami |
-| 13  |                           |                                                                    |                                      |
+| 13  | 🖼️ Slide In on Scroll | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2013%20-%20Slide%20In%20on%20Scroll/)| Revelar las imagenes cuando se hace scroll|
 | 14  |                           |                                                                    |                                      |
 | 15  |                           |                                                                    |                                      |
 | 16  |                           |                                                                    |                                      |
