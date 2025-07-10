@@ -9,47 +9,84 @@
 
     <script>
         // start with strings, numbers and booleans
+        let age = 100; // Si establecemos una variable a 100
+        let age2 = age; // Y a otra variable le damos el valor de la primera
+        console.log(age, age2); // Las dos seran 100 100 en este caso
+        age = 200; // Pero si le cambio el valor a la primera
+        console.log(age, age2); // Ya no sera 200 200. Sera 200 100. Ya que age2 tomo el valor de antes
 
-        // Let's say we have an array
+        let name = 'iago';
+        let name2 = name;
+        console.log(name, name2); // Lo mismo con strings. En este caso seria iago iago
+        name = 'Sant'; // Pero si cambiamos la primera variable
+        console.log(name, name2); // Pasara a ser Sant iago
+
+        // Si tenemos un array
         const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 
-        // and we want to make a copy of it.
+        // Y queremos hacer una copia de este
+        const team = players;
 
-        // You might think we can just do something like this:
+        console.log(players, team);
+        // Y cambiamos algo como la ultima posicion
+        // team[3] = 'Lux';
 
-        // however what happens when we update that array?
+        // En este caso, no es una copia sino que es una referencia. Los dos array tendran Lux al final y no pasa como los numeros y strings
 
-        // now here is the problem!
+        // Para poder hacer una copia podriamos hacer un slice del array
+        const team2 = players.slice();
 
-        // oh no - we have edited the original array too!
+        // Y ahi si podriamos modificar el array sin tener problemas 
+        team[3] = 'Lux';
+        console.log(players, team2);
 
-        // Why? It's because that is an array reference, not an array copy. They both point to the same array!
+        // O podemos crear un nuevo array y concatenar el antiguo en el
+        const team3 = [].concat(players);
 
-        // So, how do we fix this? We take a copy instead!
+        // O tambien se puede usar spread para cambiarlo
+        const team4 = [...players];
+        team4[3] = 'heeee hawww';
+        console.log(team4);
 
-        // one way
+        // O podemos crear un array desde players
+        const team5 = Array.from(players);
 
-        // or create a new array and concat the old one in
+        // Y cuando lo actualicemos, el original no cambiara
 
-        // or use the new ES6 Spread
-
-        // now when we update it, the original one isn't changed
-
-        // The same thing goes for objects, let's say we have a person object
+        // Lo mismo pasa con los objetos
 
         // with Objects
         const person = {
-        name: 'Wes Bos',
-        age: 80
+            name: 'Santiago Guzman',
+            age: 21
         };
 
-        // and think we make a copy:
+        // Pero si le intentamos crear una "copia", realmente estariamos sacando una referencia:
+        // const captain = person;
+        // captain.number = 99;
 
-        // how do we take a copy instead?
+        // Como podemos tener una copia entonces?
+        const cap2 = Object.assign({}, person, { number: 99, age: 12 }); // Podemos asignar el objeto a un objeto vacio y le asignamos nuevas cosas y cambiamos valores
+        console.log(cap2);
 
-        // We will hopefully soon see the object ...spread
+        // const cap3 = {...person};
 
-        // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+        // Otro ejemplo seria hacerlo de esta manera:
+
+        const santiago = {
+            name: 'Santiago',
+            age: 21,
+            social: {
+                twitter: '@santiago_gc_8',
+                instagram: 'santiago_gc_8'
+            }
+        };
+
+        console.log(santiago);
+
+        const dev = Object.assign({}, santiago); // Y si hacemos la copia y cambiamos algo desde la consola para el objeto padre, solo cambiara para dev y no para los 2. Pero que pasa si intentamos cambiar para el social? como dev.social.instagram? cambiaria para los dos y es por eso que hay que tener en cuenta que esto solo sirve para el primer nivel
+
+        const dev2 = JSON.parse(JSON.stringify(santiago)); // Otra manera seria convertir en json y a string, pero tambien debemos volver a convertir a objeto para que funciones
 
     </script>
 
