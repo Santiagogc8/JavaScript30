@@ -24,7 +24,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 11  | 📺 Custom HTML5 Video Player | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2011%20-%20Custom%20HTML5%20Video%20Player/) | Un visualizador de video personalizado |
 | 12  | 🕹️ Key Sequence Detection (KONAMI CODE) | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2012%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/)| Una web que cambia cuando haces el codigo Konami |
 | 13  | 🖼️ Slide In on Scroll | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2013%20-%20Slide%20In%20on%20Scroll/)| Revelar las imagenes cuando se hace scroll|
-| 14  |                           |                                                                    |                                      |
+| 14  | 🧐 Object and Arrays - Reference VS Copy | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2014%20-%20Object%20and%20Arrays%20-%20Reference%20VS%20Copy/)| Las diferencias entre copias y referencias de objetos y arrays y como solucionar algunos de estos problemas|
 | 15  |                           |                                                                    |                                      |
 | 16  |                           |                                                                    |                                      |
 | 17  |                           |                                                                    |                                      |
