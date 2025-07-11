@@ -25,7 +25,7 @@ Este repositorio contiene mis soluciones al reto [JavaScript30](https://javascri
 | 12  | 🕹️ Key Sequence Detection (KONAMI CODE) | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2012%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)/)| Una web que cambia cuando haces el codigo Konami |
 | 13  | 🖼️ Slide In on Scroll | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2013%20-%20Slide%20In%20on%20Scroll/)| Revelar las imagenes cuando se hace scroll|
 | 14  | 🧐 Object and Arrays - Reference VS Copy | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2014%20-%20Object%20and%20Arrays%20-%20Reference%20VS%20Copy/)| Las diferencias entre copias y referencias de objetos y arrays y como solucionar algunos de estos problemas|
-| 15  |                           |                                                                    |                                      |
+| 15  | 🗃️ LocalStorage and Event Delegation | [Ver](https://santiagogc8.github.io/JavaScript30/Day%2015%20-%20LocalStorage%20and%20Event%20Delegation/) | Como se puede usar el LocalStorage y hace una delegacion de eventos como buena practica|
 | 16  |                           |                                                                    |                                      |
 | 17  |                           |                                                                    |                                      |
 | 18  |                           |                                                                    |                                      |
